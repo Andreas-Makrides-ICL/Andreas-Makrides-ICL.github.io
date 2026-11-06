@@ -111,6 +111,7 @@ p { margin: 0 0 1rem; max-width: var(--measure); }
 .role { font-size: 1.0625rem; margin: 0 0 1.25rem; color: var(--muted); }
 .role strong { color: var(--ink); font-weight: 600; }
 .location { margin: -0.75rem 0 1rem; color: var(--muted); font-size: 0.9375rem; }
+.statement { font-size: 1.25rem; line-height: 1.5; max-width: 34ch; margin: 0; }
 
 /* merit-order chart */
 .market { margin: 0; }
